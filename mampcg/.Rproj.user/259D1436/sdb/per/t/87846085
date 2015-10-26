@@ -1,0 +1,17 @@
+{
+    "contents" : "\nlibrary(foreach)\nlibrary(doParallel)\n\n# This sentences configure the environment for performing the\n# experiment\nsource(\"R/auxiliarFunctions.R\")\nsource(\"R/utilResults.R\")\nsource(\"R/MAMPCGSearch.R\")\nsource(\"R/executeExperiment.R\")\n\n#sets the number of digits for the final report\noptions(digits=2)\n\n# sets the paths to the databases and to the networks. This has to\n# be changed when the software is installed on another machine\npathdb <- \"./ddbb/\"\npathnet <- \"./networks/\"\n\n# sets the name of the network to work with\nnetName <- \"asia\"\n\n# clean ths sink in order to initiate a new trace if required. If this\n# is the case, the last of these three lines must be operative removing\n# the comment mark\nsink()\nsink()\ntraceFileName <- paste0(netName,\"-trace\")\nsink(traceFileName)\n\n# uses parallelism if possible. The next sentence sets the number of\n# cores to use (depending on the execution machine)\nregisterDoParallel(cores=1)\ngetDoParWorkers()\n\n# set the different sample sizes to consider\nsamples <- c(500, 1000, 5000, 10000, 50000)\n\n# sets the number of variants for each sample size\nrepetitions <- 30\n\ncat(\"Learning process start\\n\")\n\n# initializes globalResults with an empty list\nglobalResults <- list()\n\n# sets this var to show the origin of the true model (net or\n# edges). Now it is set  to \"net\" in order to learn a BN. Change\n# this value to edges if the objective if to learn (and compare)\n# with respect to a mamp model\ntrueModel <- \"net\"\n\n# sets debug flag\ndebug <- FALSE\n\n# considers each sample size\nfor(i in 1:length(samples)){\n  cat(\"Learning for sample size: \",samples[i],\"\\n\")\n  pathdbsample <- \"\"\n  # composes the path where the ddbb is located\n  pathdbsample <- paste(pathdb,netName,sep=\"\")\n  pathdbsample <- paste(pathdbsample,samples[i],sep=\"/\")\n  pathdbsample <- paste(pathdbsample,\"/\",sep=\"\")\n  cat(\"ddbb path: \",pathdbsample,\"\\n\")\n  \n  # creates the result matrix for this sample size: it will\n  # contain 8 rows (results of mampc and pc) and as many\n  # columns as the number of variants for this sample size\n  partialResults <- matrix(NA,8,repetitions)\n  \n  # considers every repetition with a parallel approach\n  partialResults <- foreach(j=1:repetitions, .combine='cbind') %dopar% {\n    # learn from the ddbb, with ths corresponding sample size and\n    # the variant given by j. \n    execute(pathnet, pathdbsample, netName, j, samples[i], trueModel, debug)\n  }\n  \n  # stores the results into globalResults\n  colnames(partialResults) <- (c(1:repetitions))\n  globalResults[[i]] <- partialResults\n}\n\n# generate latex table from data (globalResult) (if required). Only\n# one of these sentences must be employed. It is included here in\n# order to check the algorithm\ngenerateLatexTableFromData(netName, samples, globalResults)\n\n# generate latex table from files (if required)\n#generateLatexTableFromFiles(netName, samples, repetitions)\n\n# gets sure no sink is open\nsink()\nsink()\n",
+    "created" : 1445428480977.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "205493724",
+    "id" : "87846085",
+    "lastKnownWriteTime" : 1445428487,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/testExecuteComparisonExperiments.R",
+    "project_path" : "R/testExecuteComparisonExperiments.R",
+    "properties" : {
+    },
+    "relative_order" : 11,
+    "source_on_save" : true,
+    "type" : "r_source"
+}

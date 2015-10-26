@@ -1,0 +1,17 @@
+{
+    "contents" : "\nsource(\"R/utilResults.R\")\n\n#'##############################################################\n#' process results in order to compute the significance tests\n#' arguments:\n#' @param netName name of the net to analyze\n#' @param samples vector with sample sizes\n#' @param repetitions number of repetitions for each sample size\n#'##############################################################\nsignificanceTest <- function(netName, samples, repetitions){\n\n  # se crea la matriz donde se almacenaran al final los resultados\n  resultsTest <- matrix(0,4,length(samples))\n\n  # considera cada posible tamaño de conjunto de datos\n  for(i in 1:length(samples)){\n    # shows the sample size\n    cat(\"---------------- Sample size: \",samples[i],\"----------------------\\n\")\n    size <- samples[i]\n  \n    # se crea matriz de resultados para cada tamaño muestral\n    partialResults1 <- matrix(0,4,repetitions)\n    partialResults2 <- matrix(0,4,repetitions)\n  \n    # gets the data for each variant\n    for(j in 1:repetitions){\n      # se leen los datos de cada conjunto de datos\n      result1 <- loadNetResults(netName, \"mampcg\", size, j)\n      result2 <- loadNetResults(netName, \"pc\", size, j)\n    \n      # se vuelcan sobre la matriz\n      partialResults1[,j] <- result1[,1]\n      partialResults2[,j] <- result2[,1]\n    }\n    \n    # now computes the test for every measure\n    for(j in 1:4){\n      # shows information about the values to be compared\n      cat(\"Performing tests for measure number \",j,\"-----------------------\\n\")\n      \n      vals1 <- partialResults1[j,]\n      vals2 <- partialResults2[j,]\n      \n      # shows the serie of values\n      cat(\"Values for mampc: \")\n      print(vals1)\n      cat(\"Values for pc: \")\n      print(vals2)\n      \n\n      # counts all meaningful values (non cero, non NA)\n      vals1 <- vals1[!is.na(vals1)]\n      vals2 <- vals2[!is.na(vals2)]\n      \n      cat(\"Values for mampc: \")\n      print(vals1)\n      cat(\"Values for pc: \")\n      print(vals2)\n      \n      # make the test\n      resultTest <- NULL\n      resultTest <- t.test(vals1, vals2, alt=\"two.sided\",var.equal=TRUE)\n      if (!is.null(resultTest)){ \n      \tresultsTest[j,i] <- resultTest$p.value\n      }\n      else{\n      \tresultsTest[j,i] <- NA\n      }\n    }\n  }\n \n  # return results\n  return(resultsTest)\n}",
+    "created" : 1445428042458.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "290161373",
+    "id" : "3FEE2199",
+    "lastKnownWriteTime" : 1445430217,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/significanceTest.R",
+    "project_path" : "R/significanceTest.R",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : true,
+    "type" : "r_source"
+}

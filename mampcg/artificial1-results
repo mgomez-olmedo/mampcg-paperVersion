@@ -1,0 +1,16 @@
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|}\hline size & &500   & 1000   & 5000   & 10000   & 50000  \\\hline\hline
+\multirow{4}{*}{Our algorithm}
+  & RA & 0.72  $\pm$  0.031 & 0.76  $\pm$  0.034 & 0.83  $\pm$  0.021 & 0.84  $\pm$  0.03 & 0.89  $\pm$  0.035\\\cline{2-7}
+  & PA & 0.98  $\pm$  0.035 & 0.96  $\pm$  0.051 & 0.98  $\pm$  0.044 & 0.99  $\pm$  0.025 & 0.96  $\pm$  0.04\\\cline{2-7}
+  & RT & 0.37  $\pm$  0.058 & 0.45  $\pm$  0.072 & 0.58  $\pm$  0.038 & 0.6  $\pm$  0.059 & 0.67  $\pm$  0.078\\\cline{2-7}
+  & PT & 0.9  $\pm$  0.17 & 0.91  $\pm$  0.14 & 0.91  $\pm$  0.13 & 0.96  $\pm$  0.075 & 0.82  $\pm$  0.12\\\cline{1-7}
+\hline\hline
+\multirow{4}{*}{Meek's algorithm}
+  & RA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA\\\cline{2-7}
+  & PA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA & NaN  $\pm$  NA\\\cline{2-7}
+  & RT & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0\\\cline{2-7}
+  & PT & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0 & 0  $\pm$  0\\\cline{1-7}
+\end{tabular}
+\end{table}

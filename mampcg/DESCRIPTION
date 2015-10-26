@@ -1,0 +1,10 @@
+Package: mampcg
+Type: Package
+Title: Learning algorithm for marginal AMP chain graphs
+Version: 1.0
+Date: 2014-09-23
+Author: mgomez
+Maintainer: Manuel Gómez-Olmedo <yourfault@somewhere.net>
+Description: Learning algorithm for marginal AMP chain graphs
+License: What license is it under?
+Depends: bnlearn, R6

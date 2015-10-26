@@ -1,0 +1,762 @@
+[1] 8
+Learning process start
+Learning for sample size:  500 
+ddbb path:  ./ddbb/artificial3/500/ 
+Sample size:  500  - variant:  2 
+MAMPCG result
+Sample size:  500  - variant:  1 
+MAMPCG result
+Sample size:  500  - variant:  4 
+MAMPCG result
+Sample size:  500  - variant:  3 
+MAMPCG result
+Sample size: Sample size:   500  - variant:  6 
+500 MAMPCG result
+ - variant:  5 
+MAMPCG result
+Sample size: Sample size:   500  - variant:  8 
+MAMPCG result
+500  - variant:  7 
+MAMPCG result
+Recall:  0.65  precision:  0.92 
+Recall:  0.76  precision:  1 
+RecallVs:  0.13  precisionVs:  0.67 
+
+Sample size:  500  - variant:  15 
+MAMPCG result
+RecallVs:  0.27  precisionVs:  1 
+
+Sample size:  500  - variant:  9 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.76  precision:  1 
+Recall:  0.76  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Sample size:  500  - variant:  12 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  10 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  14 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  11 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  13 
+MAMPCG result
+Recall:  0.71  precision:  1 
+Recall:  0.76  precision:  1 
+Recall:  0.76  precision:  1 
+RecallVs:  0.27  precisionVs:  1 
+
+Sample size:  500  - variant:  18 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  23 
+MAMPCG result
+RecallVs:  0.27  precisionVs:  1 
+
+Sample size:  500  - variant:  20 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.76  precision:  1 
+Recall:  0.82  precision:  0.93 
+Recall:  0.82  precision:  1 
+RecallVs:  0.27  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  Sample size: 500   - variant:  50021   - variant: 
+ 17 
+MAMPCG result
+MAMPCG result
+RecallVs:  0.43  precisionVs:  0.5 
+
+Sample size:  500  - variant:  16 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  22 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  19 
+MAMPCG result
+Recall:  0.76  precision:  0.93 
+Recall:  0.76  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.27  precisionVs:  1 
+
+Sample size:  500  - variant:  24 
+MAMPCG result
+RecallVs:  0.27  precisionVs:  0.57 
+
+Sample size:  500  - variant:  26 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.71  precision:  0.92 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  28 
+MAMPCG result
+Recall:  0.76  precision:  1 
+Recall:  0.76  precision:  0.93 
+RecallVs:  0.27  precisionVs:  0.8 
+
+Sample size:  500  - variant:  30 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  29 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  500  - variant:  25 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.71  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  500  - variant:  27 
+MAMPCG result
+RecallVs:  0.27  precisionVs:  1 
+
+Recall:  0.76  precision:  1 
+Recall:  0.76  precision:  1 
+RecallVs:  0.27  precisionVs:  1 
+
+Recall:  0.76  precision:  1 
+RecallVs:  0.27  precisionVs:  0.8 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  0.86 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.76  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Learning for sample size:  1000 
+ddbb path:  ./ddbb/artificial3/1000/ 
+Sample size:  1000  - variant: Sample size:   2 
+MAMPCG result
+1000  - variant:  1 
+MAMPCG result
+Sample size:  Sample size:  1000  - variant:  31000  
+ - variant:  4 
+MAMPCG result
+MAMPCG result
+Sample size:  1000 Sample size:  - variant:   5 
+1000MAMPCG result
+  - variant:  6 
+MAMPCG result
+Sample size:  1000  - variant:  7 
+Sample size:  MAMPCG result
+1000  - variant:  8 
+MAMPCG result
+Recall:  0.76  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  13 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  12 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  10 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  14 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  16 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  15 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  11 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  9 
+MAMPCG result
+Recall:  0.76  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  20 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  18 
+MAMPCG result
+Sample size:  1000  - variant:  22 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  24 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  17 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  19 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  1000  - variant:  23 
+MAMPCG result
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  1000  - variant:  21 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  28 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  26 
+MAMPCG result
+Sample size:  1000  - variant:  30 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  25 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  0.75 
+
+Sample size:  1000  - variant:  27 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  1000  - variant:  29 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Learning for sample size:  5000 
+ddbb path:  ./ddbb/artificial3/5000/ 
+Sample size:  5000  - variant:  1 
+MAMPCG result
+Sample size:  5000  - variant:  2 
+MAMPCG result
+Sample size:  5000  - variant:  3 
+MAMPCG result
+Sample size:  5000  - variant:  4 
+MAMPCG result
+Sample size:  5000  - variant:  5 
+MAMPCG result
+Sample size:  5000  - variant:  6 
+MAMPCG result
+Sample size:  5000  - variant:  7 
+MAMPCG result
+Sample size:  5000  - variant:  8 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  10 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  16 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  12 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  15 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  9 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  13 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  11 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  14 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  24 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  17 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  23 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  21 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  19 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  22 
+MAMPCG result
+Recall:  0.82  precision:  0.93 
+Recall:  0.82  precision:  0.93 
+RecallVs:  0.4  precisionVs:  0.86 
+
+Sample size:  5000  - variant:  20 
+MAMPCG result
+RecallVs:  0.36  precisionVs:  0.56 
+
+Sample size:  5000  - variant:  18 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  25 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  27 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  30 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  5000  - variant:  26 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  5000  - variant:  29 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  0.67 
+
+Recall:  0.94  precision:  0.94 
+RecallVs:  0.8  precisionVs:  1 
+
+Sample size:  5000  - variant:  28 
+MAMPCG result
+Recall:  0.88  precision:  0.94 
+RecallVs:  0.53  precisionVs:  0.73 
+
+Learning for sample size:  10000 
+ddbb path:  ./ddbb/artificial3/10000/ 
+Sample size:  10000  - variant:  2 
+MAMPCG result
+Sample size:  10000  - variant:  1 
+MAMPCG result
+Sample size:  Sample size:  10000  - variant:  100003   - variant: 
+ 4 
+MAMPCG result
+MAMPCG result
+Sample size:  Sample size:  10000  - variant:  10000 5 - variant:   
+6 
+MAMPCG result
+MAMPCG result
+Sample size:  10000 Sample size:  - variant:   7 
+10000  - variant:  8MAMPCG result
+ 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  14 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  12 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  11 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  15 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  9 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  16 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  10 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  10000  - variant:  13 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  20 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  19 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  22 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  24 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  18 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  23 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  21 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  10000  - variant:  17 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  27 
+MAMPCG result
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Sample size:  10000  - variant:  30 
+MAMPCG result
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  10000  - variant:  28 
+MAMPCG result
+Recall:  0.88  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  10000  - variant:  26 
+MAMPCG result
+Recall:  0.88  precision:  1 
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  10000  - variant:  25 
+MAMPCG result
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  10000  - variant:  29 
+MAMPCG result
+Recall:  0.82  precision:  1 
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  1 
+
+Recall:  0.82  precision:  1 
+RecallVs:  0.4  precisionVs:  0.67 
+
+Learning for sample size:  50000 
+ddbb path:  ./ddbb/artificial3/50000/ 
+Sample size:  50000  - variant:  2 
+MAMPCG result
+Sample size:  50000  - variant:  1 
+MAMPCG result
+Sample size: Sample size:   50000  - variant:  4 50000
+  - variant:  MAMPCG result
+3 
+MAMPCG result
+Sample size:  Sample size:  50000  - variant: 50000  6 - variant:   
+5 MAMPCG result
+
+MAMPCG result
+Sample size:  50000  - variant:  7 
+MAMPCG result
+Sample size:  50000  - variant:  8 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  50000  - variant:  13 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  50000  - variant:  12 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  15 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  10 
+MAMPCG result
+Recall:  0.88  precision:  1 
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  16 
+MAMPCG result
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  9 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  11 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.73  precisionVs:  1 
+
+Sample size:  50000  - variant:  14 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  50000  - variant:  20 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  18 
+MAMPCG result
+Recall:  0.88  precision:  0.94 
+RecallVs:  0.64  precisionVs:  0.69 
+
+Sample size:  50000  - variant:  17 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  50000  - variant:  28 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Sample size:  50000  - variant:  21 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Sample size:  50000  - variant:  23 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Sample size:  50000  - variant:  19 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Sample size:  50000  - variant:  24 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.6  precisionVs:  1 
+
+Sample size:  50000  - variant:  25 
+MAMPCG result
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Recall:  0.94  precision:  1 
+RecallVs:  0.73  precisionVs:  1 
+
+Sample size:  50000  - variant:  26 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.73  precisionVs:  1 
+
+Recall:  0.94  precision:  1 
+RecallVs:  0.73  precisionVs:  1 
+
+Sample size:  50000  - variant:  29 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.73  precisionVs:  1 
+
+Sample size:  50000  - variant:  27 
+MAMPCG result
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Recall:  0.88  precision:  1 
+Recall:  0.94  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+RecallVs:  0.8  precisionVs:  1 
+
+Recall:  0.94  precision:  1 
+RecallVs:  0.8  precisionVs:  1 
+
+Recall:  1  precision:  1 
+RecallVs:  1  precisionVs:  1 
+
+Sample size:  50000  - variant:  22 
+MAMPCG result
+Recall:  0.94  precision:  0.94 
+RecallVs:  0.73  precisionVs:  0.79 
+
+Recall:  0.88  precision:  1 
+RecallVs:  0.53  precisionVs:  1 
+
+Sample size:  50000  - variant:  30 
+MAMPCG result
+Recall:  1  precision:  1 
+RecallVs:  1  precisionVs:  1 
+

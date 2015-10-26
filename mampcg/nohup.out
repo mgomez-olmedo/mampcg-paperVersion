@@ -1,0 +1,20 @@
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: methods
+Warning message:
+In sink() : ningún sink para remover
+Warning message:
+In sink() : ningún sink para remover
+Error in { : task 1 failed - "objeto 'variant' no encontrado"
+Calls: %dopar% -> <Anonymous>
+Ejecución interrumpida
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: methods
+Warning message:
+In sink() : ningún sink para remover
+Warning message:
+In sink() : ningún sink para remover
+Error in { : task 1 failed - "objeto 'variant' no encontrado"
+Calls: %dopar% -> <Anonymous>
+Ejecución interrumpida

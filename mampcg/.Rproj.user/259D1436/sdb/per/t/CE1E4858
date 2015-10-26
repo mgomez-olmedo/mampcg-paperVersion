@@ -1,0 +1,17 @@
+{
+    "contents" : "\n# sets relevant paths to nets folder and databases\npath <- \"./networks/\"\npathddbb <- \"./ddbb/\"\n\n# generates the databases for all these sample sizes\nns <- c(500,1000,5000,10000,50000)\n\n# sets the number of databases to generate for each dataset\nnumberFiles <- 30\n\n# sets the name of the net used for generating samples\nnetname <- \"alarm\"\n\n# considers each sample size\nfor(i in 1:length(ns)){\n  # selects the corresponding sample size\n  nsamples <- ns[i]\n  \n  # generate the databases\n  generateDatabasesForNetName(path, netname, pathddbb, nsamples, numberFiles)\n}\n",
+    "created" : 1445427102914.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3400301913",
+    "id" : "CE1E4858",
+    "lastKnownWriteTime" : 1445427117,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/testGenerateDatabasesBN.R",
+    "project_path" : "R/testGenerateDatabasesBN.R",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

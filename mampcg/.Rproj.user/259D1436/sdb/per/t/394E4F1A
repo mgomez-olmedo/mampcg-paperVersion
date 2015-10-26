@@ -1,0 +1,17 @@
+{
+    "contents" : "# these sentences show how to perform the analysis for a given\n# network. The experiments for this network must be already\n# available\nnetName <- \"asia\"\nsamples <- c(500, 1000, 5000, 10000, 50000)\nrepetitions <- 30\n\n# prepares the output to a file\nsink()\nsink()\nsink()\n\n# compose the name of the file to generate with the results\ntraza <- paste0(netName,\"-tests\")\n\n# redirect output to the file\nsink(traza)\n\n# perform the test\nresults <- significanceTest(netName, samples, repetitions)\nsink()\nsink()\n",
+    "created" : 1445428343494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1646780562",
+    "id" : "394E4F1A",
+    "lastKnownWriteTime" : 1445430233,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/testSignificanceTest.R",
+    "project_path" : "R/testSignificanceTest.R",
+    "properties" : {
+    },
+    "relative_order" : 10,
+    "source_on_save" : true,
+    "type" : "r_source"
+}

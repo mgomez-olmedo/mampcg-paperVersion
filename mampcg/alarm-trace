@@ -1,0 +1,912 @@
+[1] 15
+Learning process start
+Learning for sample size:  500 
+ddbb path:  ./ddbb/alarm/500/ 
+Recall:  0.39  precision:  1 
+RecallVs:  0.042  precisionVs:  0.33 
+
+Recall:  0.67  precision:  0.84 
+RecallVs:  0.17  precisionVs:  0.29 
+
+Recall:  0.3  precision:  1 
+RecallVs:  0.12  precisionVs:  0.75 
+
+Recall:  0.67  precision:  0.84 
+RecallVs:  0.17  precisionVs:  0.27 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.083  precisionVs:  1 
+
+Recall:  0.63  precision:  0.81 
+RecallVs:  0.25  precisionVs:  0.46 
+
+Recall:  0.37  precision:  1 
+RecallVs:  0.17  precisionVs:  0.57 
+
+Recall:  0.65  precision:  0.79 
+RecallVs:  0.25  precisionVs:  0.43 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.67  precision:  0.84 
+RecallVs:  0.33  precisionVs:  0.4 
+
+Recall:  0.3  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.72  precision:  0.92 
+RecallVs:  0.29  precisionVs:  0.54 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.67  precision:  0.82 
+RecallVs:  0.29  precisionVs:  0.5 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.083  precisionVs:  1 
+
+Recall:  0.65  precision:  0.88 
+RecallVs:  0.29  precisionVs:  0.58 
+
+Recall:  0.33  precision:  1 
+Recall:  0.35  precision:  1 
+RecallVs:  0.042  precisionVs:  1 
+
+Recall:  0.65  precision:  0.83 
+RecallVs:  0.083  precisionVs:  0.4 
+
+Recall:  0.7  precision:  0.78 
+RecallVs:  0.12  precisionVs:  0.25 
+
+RecallVs:  0.33  precisionVs:  0.44 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.59  precision:  0.77 
+RecallVs:  0.17  precisionVs:  0.29 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.083  precisionVs:  0.5 
+
+Recall:  0.7  precision:  0.8 
+RecallVs:  0.12  precisionVs:  0.16 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.17  precisionVs:  0.57 
+
+Recall:  0.61  precision:  0.8 
+RecallVs:  0.25  precisionVs:  0.46 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.72  precision:  0.82 
+RecallVs:  0.33  precisionVs:  0.42 
+
+Recall:  0.37  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.67  precision:  0.78 
+RecallVs:  0.21  precisionVs:  0.38 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.7  precision:  0.84 
+RecallVs:  0.29  precisionVs:  0.47 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.12  precisionVs:  1 
+
+Recall:  0.7  precision:  0.89 
+RecallVs:  0.33  precisionVs:  0.53 
+
+Recall:  0.37  precision:  1 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.61  precision:  0.82 
+Recall:  0.37  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.67  precision:  0.82 
+RecallVs:  0.25  precisionVs:  0.32 
+
+RecallVs:  0.21  precisionVs:  0.31 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.72  precision:  0.87 
+RecallVs:  0.33  precisionVs:  0.57 
+
+Recall:  0.39  precision:  1 
+RecallVs:  0.12  precisionVs:  0.75 
+
+Recall:  0.65  precision:  0.94 
+RecallVs:  0.25  precisionVs:  0.55 
+
+Recall:  0.33  precision:  1 
+RecallVs:  0.083  precisionVs:  0.33 
+
+Recall:  0.67  precision:  0.89 
+RecallVs:  0.21  precisionVs:  0.36 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.63  precision:  0.81 
+RecallVs:  0.25  precisionVs:  0.4 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.67  precision:  0.86 
+RecallVs:  0.29  precisionVs:  0.58 
+
+Recall:  0.37  precision:  0.94 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.67  precision:  0.82 
+RecallVs:  0.33  precisionVs:  0.5 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.12  precisionVs:  0.75 
+
+Recall:  0.67  precision:  0.84 
+RecallVs:  0.25  precisionVs:  0.46 
+
+Recall:  0.35  precision:  1 
+RecallVs:  0.25  precisionVs:  0.75 
+
+Recall:  0.67  precision:  0.76 
+RecallVs:  0.17  precisionVs:  0.27 
+
+Recall:  0.41  precision:  1 
+RecallVs:  0.12  precisionVs:  1 
+
+Recall:  0.63  precision:  0.81 
+RecallVs:  0.21  precisionVs:  0.45 
+
+Recall:  0.41  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.63  precision:  0.76 
+Recall:  0.33  precision:  1 
+RecallVs:  0.042  precisionVs:  1 
+
+Recall:  0.65  precision:  0.81 
+RecallVs:  0.21  precisionVs:  0.36 
+
+RecallVs:  0.21  precisionVs:  0.36 
+
+Learning for sample size:  1000 
+ddbb path:  ./ddbb/alarm/1000/ 
+Recall:  0.43  precision:  1 
+RecallVs:  0.21  precisionVs:  0.62 
+
+Recall:  0.76  precision:  0.9 
+RecallVs:  0.33  precisionVs:  0.67 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.78  precision:  0.92 
+RecallVs:  0.29  precisionVs:  0.58 
+
+Recall:  0.43  precision:  1 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.76  precision:  0.9 
+RecallVs:  0.38  precisionVs:  0.56 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.8  precision:  0.88 
+RecallVs:  0.33  precisionVs:  0.4 
+
+Recall:  0.43  precision:  1 
+RecallVs:  0.21  precisionVs:  0.62 
+
+Recall:  0.76  precision:  0.85 
+Recall:  0.46  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.74  precision:  0.85 
+RecallVs:  0.33  precisionVs:  0.53 
+
+RecallVs:  0.25  precisionVs:  0.38 
+
+Recall:  0.39  precision:  1 
+Recall:  0.41  precision:  1 
+RecallVs:  0.12  precisionVs:  0.75 
+
+Recall:  0.72  precision:  0.82 
+RecallVs:  0.12  precisionVs:  0.6 
+
+Recall:  0.74  precision:  0.87 
+Recall:  0.43  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.76  precision:  0.9 
+RecallVs:  0.25  precisionVs:  0.4 
+
+RecallVs:  0.33  precisionVs:  0.57 
+
+RecallVs:  0.33  precisionVs:  0.47 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.74  precision:  0.83 
+Recall:  0.46  precision:  1 
+Recall:  0.43  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.76  precision:  0.83 
+Recall:  0.74  precision:  0.85 
+RecallVs:  0.21  precisionVs:  0.45 
+
+RecallVs:  0.25  precisionVs:  0.27 
+
+RecallVs:  0.33  precisionVs:  0.47 
+
+Recall:  0.41  precision:  1 
+RecallVs:  0.25  precisionVs:  0.67 
+
+Recall:  0.76  precision:  0.85 
+RecallVs:  0.29  precisionVs:  0.37 
+
+Recall:  0.41  precision:  1 
+RecallVs:  0.12  precisionVs:  0.75 
+
+Recall:  0.74  precision:  0.83 
+RecallVs:  0.38  precisionVs:  0.5 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.21  precisionVs:  0.56 
+
+Recall:  0.76  precision:  0.83 
+RecallVs:  0.25  precisionVs:  0.38 
+
+Recall:  0.43  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.72  precision:  0.87 
+RecallVs:  0.33  precisionVs:  0.62 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.083  precisionVs:  0.67 
+
+Recall:  0.78  precision:  0.86 
+RecallVs:  0.25  precisionVs:  0.43 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.21  precisionVs:  0.56 
+
+Recall:  0.76  precision:  0.83 
+RecallVs:  0.33  precisionVs:  0.35 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.78  precision:  0.84 
+Recall:  0.41  precision:  1 
+RecallVs:  0.38  precisionVs:  0.41 
+
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.7  precision:  0.74 
+RecallVs:  0.25  precisionVs:  0.3 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.76  precision:  0.85 
+RecallVs:  0.33  precisionVs:  0.4 
+
+Recall:  0.43  precision:  1 
+RecallVs:  0.17  precisionVs:  1 
+
+Recall:  0.76  precision:  0.83 
+RecallVs:  0.29  precisionVs:  0.44 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.21  precisionVs:  0.83 
+
+Recall:  0.76  precision:  0.88 
+Recall:  0.46  precision:  1 
+RecallVs:  0.25  precisionVs:  0.75 
+
+Recall:  0.78  precision:  0.86 
+RecallVs:  0.38  precisionVs:  0.41 
+
+RecallVs:  0.25  precisionVs:  0.38 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.72  precision:  0.8 
+Recall:  0.41  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.78  precision:  0.9 
+RecallVs:  0.33  precisionVs:  0.42 
+
+Recall:  0.46  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.76  precision:  0.85 
+RecallVs:  0.33  precisionVs:  0.38 
+
+RecallVs:  0.38  precisionVs:  0.45 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.21  precisionVs:  0.71 
+
+Recall:  0.76  precision:  0.85 
+RecallVs:  0.33  precisionVs:  0.5 
+
+Recall:  0.48  precision:  1 
+RecallVs:  0.17  precisionVs:  0.8 
+
+Recall:  0.74  precision:  0.83 
+RecallVs:  0.21  precisionVs:  0.33 
+
+Recall:  0.41  precision:  1 
+RecallVs:  0.17  precisionVs:  0.67 
+
+Recall:  0.76  precision:  0.83 
+RecallVs:  0.25  precisionVs:  0.4 
+
+Learning for sample size:  5000 
+ddbb path:  ./ddbb/alarm/5000/ 
+Recall:  0.59  precision:  1 
+RecallVs:  0.25  precisionVs:  1 
+
+Recall:  0.87  precision:  0.85 
+RecallVs:  0.46  precisionVs:  0.61 
+
+Recall:  0.54  precision:  1 
+RecallVs:  0.25  precisionVs:  1 
+
+Recall:  0.93  precision:  0.9 
+RecallVs:  0.54  precisionVs:  0.65 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.87  precision:  0.89 
+Recall:  0.57  precision:  1 
+RecallVs:  0.54  precisionVs:  0.72 
+
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.93  precision:  0.9 
+RecallVs:  0.58  precisionVs:  0.74 
+
+Recall:  0.61  precision:  1 
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.71  precisionVs:  0.68 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.93  precision:  0.9 
+RecallVs:  0.5  precisionVs:  0.55 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.87  precision:  0.78 
+RecallVs:  0.33  precisionVs:  0.29 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.25  precisionVs:  0.75 
+
+Recall:  0.87  precision:  0.85 
+RecallVs:  0.46  precisionVs:  0.61 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.58  precisionVs:  0.64 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.91  precision:  0.86 
+RecallVs:  0.42  precisionVs:  0.53 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.21  precisionVs:  0.83 
+
+Recall:  0.87  precision:  0.85 
+RecallVs:  0.42  precisionVs:  0.48 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  0.7 
+
+Recall:  0.91  precision:  0.81 
+RecallVs:  0.38  precisionVs:  0.36 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  0.78 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.54  precisionVs:  0.57 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.33  precisionVs:  0.8 
+
+Recall:  0.93  precision:  0.83 
+RecallVs:  0.54  precisionVs:  0.45 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.25  precisionVs:  0.86 
+
+Recall:  0.93  precision:  0.78 
+RecallVs:  0.46  precisionVs:  0.41 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.25  precisionVs:  1 
+
+Recall:  0.93  precision:  0.91 
+RecallVs:  0.58  precisionVs:  0.74 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.25  precisionVs:  1 
+
+Recall:  0.93  precision:  0.91 
+RecallVs:  0.54  precisionVs:  0.65 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.91  precision:  0.82 
+RecallVs:  0.54  precisionVs:  0.52 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.25  precisionVs:  0.75 
+
+Recall:  0.87  precision:  0.85 
+RecallVs:  0.58  precisionVs:  0.56 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.25  precisionVs:  0.86 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.52 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.25  precisionVs:  0.75 
+
+Recall:  0.89  precision:  0.82 
+Recall:  0.54  precision:  1 
+RecallVs:  0.21  precisionVs:  0.83 
+
+Recall:  0.87  precision:  0.87 
+RecallVs:  0.42  precisionVs:  0.32 
+
+RecallVs:  0.62  precisionVs:  0.65 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.91  precision:  0.86 
+Recall:  0.57  precision:  1 
+RecallVs:  0.5  precisionVs:  0.63 
+
+RecallVs:  0.25  precisionVs:  0.6 
+
+Recall:  0.93  precision:  0.96 
+RecallVs:  0.42  precisionVs:  0.67 
+
+Recall:  0.61  precision:  1 
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.89  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.52 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.58  precisionVs:  0.64 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.25  precisionVs:  0.86 
+
+Recall:  0.91  precision:  0.84 
+RecallVs:  0.46  precisionVs:  0.48 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.21  precisionVs:  1 
+
+Recall:  0.91  precision:  0.81 
+RecallVs:  0.46  precisionVs:  0.39 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.81 
+RecallVs:  0.58  precisionVs:  0.64 
+
+Recall:  0.57  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.67  precisionVs:  0.59 
+
+Learning for sample size:  10000 
+ddbb path:  ./ddbb/alarm/10000/ 
+Recall:  0.65  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.62  precisionVs:  0.62 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.67  precisionVs:  0.59 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.8 
+RecallVs:  0.38  precisionVs:  0.32 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.38  precisionVs:  0.9 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.62  precisionVs:  0.62 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.75  precisionVs:  0.64 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.57 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.33  precisionVs:  0.89 
+
+Recall:  0.93  precision:  0.8 
+RecallVs:  0.38  precisionVs:  0.33 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.33  precisionVs:  0.89 
+
+Recall:  0.93  precision:  0.81 
+RecallVs:  0.5  precisionVs:  0.41 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.88 
+RecallVs:  0.75  precisionVs:  0.82 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.89  precision:  0.8 
+RecallVs:  0.46  precisionVs:  0.55 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.9 
+RecallVs:  0.67  precisionVs:  0.67 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.62  precisionVs:  0.71 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.38  precisionVs:  0.9 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.54  precisionVs:  0.59 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.38  precisionVs:  0.9 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.38  precisionVs:  0.29 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.81 
+RecallVs:  0.42  precisionVs:  0.43 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.29  precisionVs:  0.88 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.62  precisionVs:  0.54 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.71  precisionVs:  0.71 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.88 
+RecallVs:  0.71  precisionVs:  0.68 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.54  precisionVs:  0.62 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.84 
+RecallVs:  0.38  precisionVs:  0.43 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.93  precision:  0.88 
+RecallVs:  0.46  precisionVs:  0.5 
+
+Recall:  0.63  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.89  precision:  0.77 
+RecallVs:  0.38  precisionVs:  0.29 
+
+Recall:  0.61  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.58  precisionVs:  0.48 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.96  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.41 
+
+Recall:  0.59  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.32 
+
+Recall:  0.61  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.81 
+RecallVs:  0.58  precisionVs:  0.56 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.98  precision:  0.88 
+RecallVs:  0.79  precisionVs:  0.66 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.29  precisionVs:  1 
+
+Recall:  0.93  precision:  0.86 
+RecallVs:  0.71  precisionVs:  0.68 
+
+Recall:  0.67  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.83 
+RecallVs:  0.54  precisionVs:  0.48 
+
+Recall:  0.65  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.58  precisionVs:  0.54 
+
+Learning for sample size:  50000 
+ddbb path:  ./ddbb/alarm/50000/ 
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.38  precisionVs:  0.3 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.5  precisionVs:  0.44 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  0.9 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.29  precisionVs:  0.28 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.76 
+RecallVs:  0.42  precisionVs:  0.26 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.25  precisionVs:  0.16 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.33  precisionVs:  0.27 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.38  precisionVs:  0.35 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.83 
+Recall:  0.7  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.75 
+RecallVs:  0.54  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.28 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.54  precisionVs:  0.43 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.62  precisionVs:  0.41 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.98  precision:  0.83 
+RecallVs:  0.67  precisionVs:  0.57 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.54  precisionVs:  0.43 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.33  precisionVs:  0.3 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.46  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.5  precisionVs:  0.48 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.46  precisionVs:  1 
+
+Recall:  0.98  precision:  0.76 
+RecallVs:  0.67  precisionVs:  0.38 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.83 
+RecallVs:  0.42  precisionVs:  0.43 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.54  precisionVs:  0.43 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.46  precisionVs:  1 
+
+Recall:  0.98  precision:  0.85 
+RecallVs:  0.75  precisionVs:  0.67 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.81 
+RecallVs:  0.54  precisionVs:  0.57 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.75  precisionVs:  0.67 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.77 
+RecallVs:  0.42  precisionVs:  0.33 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.33  precisionVs:  0.29 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.38  precisionVs:  1 
+
+Recall:  0.96  precision:  0.85 
+RecallVs:  0.62  precisionVs:  0.62 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  0.83 
+
+Recall:  0.98  precision:  0.88 
+RecallVs:  0.71  precisionVs:  0.71 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.33  precisionVs:  1 
+
+Recall:  0.96  precision:  0.8 
+RecallVs:  0.58  precisionVs:  0.45 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.75 
+RecallVs:  0.46  precisionVs:  0.31 
+
+Recall:  0.7  precision:  1 
+RecallVs:  0.38  precisionVs:  0.82 
+
+Recall:  0.98  precision:  0.78 
+RecallVs:  0.42  precisionVs:  0.33 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.79 
+RecallVs:  0.42  precisionVs:  0.38 
+
+Recall:  0.72  precision:  1 
+RecallVs:  0.42  precisionVs:  1 
+
+Recall:  0.96  precision:  0.71 
+RecallVs:  0.58  precisionVs:  0.33 
+

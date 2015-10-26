@@ -1,0 +1,17 @@
+{
+    "contents" : "# definition of global parameters: paths, base file name (artificial),\n# sample sizes, vector of edges probs for the variants to consider\n# (1. 20% for directed edges, 20% undirected, 60% bidirected;\n#  2. 20% directed, 60% undirected, 20% bidirected;\n#  3. 60% directed, 20% undirected, 20% bidirected)\n# number of nets to generate, number of nodes (15), number of databases\n# to generate during the sample procedure and seed (NOTE: remove this\n# sentence for a real random behaviour; in this cases is fixed just to\n# focus the software on the tree models used for the experiments described\n# in the paper)\npathDb <- \"./ddbb/\"\npathNet <- \"./networks/\"\nbaseFileName <- \"artificial\"\n#sampleSizes <- c(500, 1000, 5000, 10000, 50000)\nsampleSizes <- c(200)\n\n# these are the probs for directed, undirected and bidirected used for\n# artificial1, artificial2 and artificial3 respectively\nedgesProbs <- list(c(0.2, 0.2, 0.6), c(0.2, 0.6, 0.2), c(0.6, 0.2, 0.2))\nnumberNets <- 3\nnumberNodes <- 15\nvariants <- 5\n\n# This parameter defines the threshold used for the evidence. We have\n# used 0.2 for artificial1 and artificial3 and 0.9 for artificial2\nthreshold <- 0.2\n\n# use parallel execution if possible. The argument defines the number of\n# cores to use\ncl=makeCluster(2)\n\n# normal procedure\n# 1. generates a new graphical model\ngraphModel <- generateRandomMAMPCG(numberNodes, edgesProbs[[1]])\n\n# 2. prepare the model for sampling. This also requires to get a valid\n# name for the model (it will be artificial, bit the id will be assigned\n# examining the folder considered for storing the models (pathNet))\ncompleteModel <- prepareMAMPCGForSampling(graphModel, baseFileName, pathNet)\n\n# 3. If needed, store the model for posterior use. The procedure\n# will check all the files named artificial and will add a create\n# a new one. This method only saves complete models defined by\n# edges, a bnet and a set of inmoralities\nstoreModel(completeModel,pathNet)\n\n# 4. The model can be used to generate the samples\ngenerateDatabases(completeModel, variants, sampleSizes, threshold, pathDb, cl)\n\n# 5. We can retrieve a previously generated model for producing new datasets\ncompleteModel <- retrieveModel(\"artificial1\",pathNet)\n\n# 6. Now it is possible to generateDatasets as before....\n# generateDatabases(completeModel, variants, sampleSizes, threshold, pathDb, cl)",
+    "created" : 1445343671434.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3358686765",
+    "id" : "60A8292",
+    "lastKnownWriteTime" : 1445359783,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/testGenerateMAMPCG.R",
+    "project_path" : "R/testGenerateMAMPCG.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : true,
+    "type" : "r_source"
+}

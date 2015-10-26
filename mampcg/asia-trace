@@ -1,0 +1,912 @@
+[1] 15
+Learning process start
+Learning for sample size:  500 
+ddbb path:  ./ddbb/asia/500/ 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  0.71 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.67 
+RecallVs:  0  precisionVs:  NaN 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.25 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  NaN 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.67 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.57 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.25 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0  precisionVs:  0 
+
+Learning for sample size:  1000 
+ddbb path:  ./ddbb/asia/1000/ 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  0.67 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.57 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.25 
+
+Recall:  0.5  precision:  1 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  0.71 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  0.57 
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  0.67 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs: RecallVs:   0 0.5 precisionVs:    precisionVs: 0  
+
+1 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  0.8 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.57 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  NaN 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Learning for sample size:  5000 
+ddbb path:  ./ddbb/asia/5000/ 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  0.67 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.75  precision:  0.86 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.75  precision:  0.75 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.71 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Learning for sample size:  10000 
+ddbb path:  ./ddbb/asia/10000/ 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  RecallVs: 0.62   precision:  0 0.83 precisionVs:   
+0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  0.8 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  0.71 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0  precisionVs:  0 
+
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.71 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Learning for sample size:  50000 
+ddbb path:  ./ddbb/asia/50000/ 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall: Recall:   0.620.62   precision:  precision:   11  
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.33 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.2 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.5  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  0.83 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  0.75 
+RecallVs:  0  precisionVs:  0 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.2 
+
+Recall:  0.75  precision:  0.75 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  0.33 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+RecallVs:  0.5  precisionVs:  0.5 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  0.86 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  0.5 
+
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+Recall:  0.62  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+Recall:  0.75  precision:  1 
+RecallVs:  0.5  precisionVs:  1 
+
+RecallVs:  0.5  precisionVs:  1 
+

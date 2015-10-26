@@ -1,0 +1,17 @@
+{
+    "contents" : "\nlibrary(bnlearn)\n\n#'##############################################################\n#' function for reading the data of the net from a file\n#' arguments:\n#' @param fileName complete path to the file to read. The function\n#'             read.net is defined in bnlearn library\n#'##############################################################\nreadNetFile <- function(fileName,debug=FALSE){\n  cat(\"Filename: \",fileName, \"\\n\")\n  net <- bnlearn::read.net(fileName,debug)\n}\n\n#'##############################################################\n#' function for reading a database file\n#' arguments:\n#' @param filedb path to the database to read\n#' @param netExt flag to show if data must be considered as\n#'        factor or not\n#'##############################################################\nreadDataBase <- function(filedb, netExt){\n  db <- read.csv(filedb,header=TRUE)\n  colnames <- colnames(db)\n  \n  # converts everything into factor if netExt is \"net\": then\n  # data come from discrete Bayesian networks\n  if (netExt == \"net\"){\n    db[,colnames] <- lapply(db[,colnames] , factor)\n  }\n  \n  # return db\n  return(db)\n}\n",
+    "created" : 1445351163619.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "542513425",
+    "id" : "65478CB1",
+    "lastKnownWriteTime" : 1445351295,
+    "path" : "~/desarrollo/jmpenna/aprendizaje/versionComentada/mampcg/R/auxiliarFunctions.R",
+    "project_path" : "R/auxiliarFunctions.R",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
