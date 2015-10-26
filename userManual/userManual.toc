@@ -1,0 +1,7 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Database generation from Bayesian networks}{2}
+\contentsline {section}{\numberline {3}Random generation of MAMP models and databases}{3}
+\contentsline {section}{\numberline {4}Procedure for comparing MAMP versus PC algorithms}{7}
+\contentsline {section}{\numberline {5}Procedure for learning MAMP models}{11}
+\contentsline {section}{\numberline {6}Significance test computation}{13}
